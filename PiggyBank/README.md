@@ -68,7 +68,7 @@ Uma API para o sistema de controle de gastos pessoais
     "conta" : {
         "conta_ id" : 1,
         "nome" : "itaú"
-    }
+    },
     "data" : "2023-01-21",
     "descricao" : "cinema com os amigos"
 }
